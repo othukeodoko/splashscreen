@@ -10,7 +10,8 @@ header{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background: url('/images/intro-bg.png');
+    background-image: url('/images/intro-bg.png');
+    background-color: #9480e4;
     height: 70vh;
     color: white;
     text-align: center;
